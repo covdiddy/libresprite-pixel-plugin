@@ -1,0 +1,7 @@
+{
+  "name": "pixel-plugin",
+  "version": "0.1.0",
+  "description": "Create, animate and export pixel art with LibreSprite through natural language and commands: 50 tools (drawing, dithering, palettes, animation, tags, spritesheet and GIF export). LibreSprite port of willibrandon/pixel-plugin; no compiled binaries, Python 3 only.",
+  "license": "MIT",
+  "keywords": ["pixel art", "libresprite", "sprite", "animation", "game dev", "retro", "8-bit", "16-bit", "graphics", "tileset"]
+}
